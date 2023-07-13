@@ -1,0 +1,30 @@
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\ekrankilit denemesi.exe
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\System.Data.SQLite.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\EntityFramework.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\EntityFramework.xml
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\System.Data.SQLite.xml
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit denemesi.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit_denemesi.Form1.resources
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit_denemesi.Properties.Resources.resources
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit denemesi.csproj.GenerateResource.cache
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit denemesi.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit denemesi.csproj.CopyComplete
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit denemesi.exe
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit denemesi.pdb
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\ekrankilit denemesi.pdb
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit_denemesi.Form2.resources
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\Interop.WMPLib.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\Interop.WMPLib.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit denemesi.csproj.ResolveComReference.cache
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\Interop.SHDocVw.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\Interop.SHDocVw.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit_denemesi.forgetmypassword.resources
+C:\Users\demir\source\repos\ekrankilit denemesi\ekrankilit denemesi\obj\Debug\ekrankilit denemesi.csproj.SuggestedBindingRedirects.cache
